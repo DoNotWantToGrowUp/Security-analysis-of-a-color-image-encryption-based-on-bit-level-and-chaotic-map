@@ -5,7 +5,7 @@
 %All copyrights belong to all authors of this paper.<br>
 %This code is managed and released by the author Yiting Lin.<br>
 %E-mail: donotwanttogrowup@outlook.com<br>
-%https://github.com/DoNotWantToGrowUp/Secure-Optical-Image-Communication-using-Double-Random-Transformation-and-Memristive-Chaos<br>
+%https://github.com/DoNotWantToGrowUp/Security-analysis-of-a-color-image-encryption-based-on-bit-level-and-chaotic-map<br>
 %All following source code is free to distribute, to use, and to modify<br>
 % for research and study purposes, but absolutely NOT for commercial uses.<br>
 %If you use any of the following code in your academic publication(s),<br>
